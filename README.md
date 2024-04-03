@@ -29,9 +29,6 @@ To replicate the HR Dashboard project, follow these steps:
 4.	Dashboard Customization: Open the Power BI dashboard file and customize visuals, filters, and interactions based on the HR KPIs of interest.
 5.	Dashboard Deployment: Publish the finalized dashboard to Power BI Service or deploy it locally for access by stakeholders.
 
-## Contributing
-
-Contributions to the HR Dashboard project are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to submit a pull request or open an issue on GitHub
 
 ## Insights
 •	**Healthy Weight Distribution:**
@@ -58,3 +55,12 @@ Contributions to the HR Dashboard project are welcome! If you have any suggestio
 •	**Insight:** Medical and dental consultations, along with physiotherapy, are the primary reasons cited for employee leave.
 
 •	**Implication:** Recognizing the prevalent reasons for leave can guide HR policies and wellness programs to address common health concerns among employees, potentially reducing absenteeism and improving overall workforce health.
+
+## Contributing
+
+Contributions to the HR Dashboard project are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to submit a pull request or open an issue on GitHub
+
+## Contributors/Creators
+Jaykumar Patel
+
+Krushna Kardile
